@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+div{
+    border: 2px solid;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.leftex{
+    border: 4px solid;
+}
